@@ -1,7 +1,10 @@
--Marco Contreras
--Fidel Barriga
--Fabiola Cheuquelaf
--Francisco Gatica
+# Evidencia 2
+## Trabajo colaborativo en GitHub
+### Integrantes:
+- Marco Contreras
+- Fidel Barriga
+- Fabiola Cheuquelaf
+- Francisco Gatica
 
 En esta actividad comenzamos creando el repositorio y un integrante subio el archivo README.md en la rama master y los archivos del codigo en otra rama con su nombre.
 
